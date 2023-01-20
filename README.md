@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que tem como finalidade te ajudar no controle de tarefas diárias.
 
-- [Visite o projeto online](brunorazevedo.github.io/habits/)
+- [Visite o projeto online](https://brunorazevedo.github.io/habits)
 
 ## 🔖 Layout
 
