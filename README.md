@@ -1,10 +1,7 @@
 <h1 align="center"> Habits</h1>
 
-
-
 <p align="center">
 Controlador de hábitos diários <br/>
-
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app que tem como finalidade te ajudar no controle de tarefas diárias.
+
+- [Visite o projeto online](brunorazevedo.github.io/habits/)
 
 ## 🔖 Layout
 
